@@ -7,11 +7,14 @@ The scanned book can be stored as  a document  in our Android application.
 Our application also provides the facility to navigate throughout the book with Voice over control navigation system.
 
 
-Team Guide                                                                                       Team Members
-Dr .Ram P Rustagi                                                                                Amogha Manjunatha K -1KS17CS006
-                                                                                                 Sakshi Kumari - 1KS17CS071
-                                                                                                 Srikala K M- 1KS17CS083
-                                                                                                 Swati Pai - 1KS17CS089
+Team Guide  
+Dr Ram P Rustagi
+
+Team Members
+Amogha Manjunatha K -1KS17CS00
+Sakshi Kumari - 1KS17CS07
+Srikala K M- 1KS17CS083
+Swati Pai - 1KS17CS089
 
 
 
