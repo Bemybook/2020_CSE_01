@@ -1,6 +1,7 @@
 # 2020_CSE_01
 
 "Be My Book" - You hear what you choose read.
+
 Our proposed model will assist visually impaired to read a book without any human assistance. 
 Our model makes use of AUTOMATIC PAGE TURNER AND SCANNER which will turn the pages of the book and scan it respectively.
 The scanned book can be stored as  a document  in our Android application.
