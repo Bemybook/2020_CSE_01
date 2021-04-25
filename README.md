@@ -7,7 +7,8 @@ The scanned book can be stored as  a document  in our Android application.
 Our application also provides the facility to navigate throughout the book with Voice over control navigation system.
 
 
-Team Guide  
+Team Guide 
+
 Dr Ram P Rustagi
 
 Team Members
