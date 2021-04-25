@@ -25,7 +25,7 @@ Swati Pai - 1KS17CS089
 
                                                             EXTRACTING TEXT FROM THE IMAGES
 
-OPTICAL CHRACTER RECOGNITION
+OPTICAL CHARACTER RECOGNITION
 
 OCR stands for "Optical Character Recognition." It is a technology that recognizes text within a digital
 image. It is commonly used to recognize text in scanned documents and images.
