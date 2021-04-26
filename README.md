@@ -41,11 +41,17 @@ TEXT EXTRACTING TOOLS
 1)PDFMINER.SIX 
 
         We make use of pdfminer.six library to extract information from pdf document. It extracts the text from the page directly from source code of the pdf. Pdfminer.six is a community maintained fork of the original PDFMiner. It is a tool for extracting information from PDF documents. It focuses on getting and analyzing text data. Pdfminer.six extracts the text from a page directly from the sourcecode of the PDF. It can also be used to get the exact location, font or color of the text.
-
+ 
+--> INSTALLATION:
+ pip install pdfminer.six
+ 
 And the code for the file is named pdftotext.py
 
 2) EASYOCR
 
+  --> Installation
+  pip install easyocr
+  
         EasyOCR is a python package that allows the image to be converted to text. EasyOCR is built with Python and Pytorch deep learning library, having a GPU could speed up the whole process of detection. t is ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and ThaiEasyOCR is a tool in the Image Analysis API category of a tech stack.
 
 The code for the file is named easyocr.py
