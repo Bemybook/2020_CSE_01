@@ -113,6 +113,11 @@ program which will recognize the text and convert the document to an editable te
    **INSTALLATION**
    
    > pip install easyocr
+  
+  **EXAMPLES
+  ![image](https://user-images.githubusercontent.com/83057352/116846025-114cec80-ac05-11eb-9b6f-60a48f5aa5b9.png)
+
+
    
         
   **Credits : JaidedAI (https://github.com/JaidedAI)
