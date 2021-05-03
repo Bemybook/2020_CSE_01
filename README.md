@@ -113,6 +113,11 @@ program which will recognize the text and convert the document to an editable te
    **INSTALLATION**
    
    > pip install easyocr
+   > import matplotlib.pyplot as plt
+   >import cv2
+   >import easyocr
+   >from pylab import rcParams
+   >from IPython.display import Image
   
   **EXAMPLES
   
