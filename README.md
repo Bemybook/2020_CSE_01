@@ -115,14 +115,30 @@ program which will recognize the text and convert the document to an editable te
    > pip install easyocr
   
   **EXAMPLES
+  
   ![image](https://user-images.githubusercontent.com/83057352/116846025-114cec80-ac05-11eb-9b6f-60a48f5aa5b9.png)
+  
+  **EXECUTION OUTPUT AND ACCURACY
+  
+  CONSIDERED IMAGE IS:  
+ 
+  ![image](https://user-images.githubusercontent.com/83057352/116849233-02b60380-ac0c-11eb-9831-03bdb9a640a0.png)
 
+  
+  OUTPUT IMAGE: 
+  
+  ![image](https://user-images.githubusercontent.com/83057352/116848767-f1202c00-ac0a-11eb-9cf5-4659b061e116.png)
+  
 
+#  RESULTS:
+
+ * Considering all the images ,  approximately we were getting accuracy up to *75%*.
    
         
   **Credits : JaidedAI (https://github.com/JaidedAI)
 
-file name: easyocr.py
+Documentation file name: easyocr(2).py
+Code file : easyocr.ipynb
 
 
 
