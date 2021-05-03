@@ -9,7 +9,7 @@ Our model makes use of  **AUTOMATIC PAGE TURNER AND SCANNER** which will turn th
 The scanned book can be stored as  a document  in our Android application.
 Our application also provides the facility to navigate throughout the book with Voice over control navigation system.
 
-![image](https://user-images.githubusercontent.com/83057352/116843576-fcb92600-abfd-11eb-9416-ca67b58b8280.png) ![image](https://user-images.githubusercontent.com/83057352/116842544-7f3fe680-abfa-11eb-90e5-afb3e70c211b.png) ![image](https://user-images.githubusercontent.com/83057352/116842556-8830b800-abfa-11eb-99c8-0992c9a28dde.png) ![image](https://user-images.githubusercontent.com/83057352/116842558-8bc43f00-abfa-11eb-97e4-509c533cfa33.png) ![image](https://user-images.githubusercontent.com/83057352/116842569-8ff05c80-abfa-11eb-9130-c791650bda1f.png)
+![image](https://user-images.githubusercontent.com/83057352/116843576-fcb92600-abfd-11eb-9416-ca67b58b8280.png) ![image](https://user-images.githubusercontent.com/83057352/116842544-7f3fe680-abfa-11eb-90e5-afb3e70c211b.png) ![image](https://user-images.githubusercontent.com/83057352/116842556-8830b800-abfa-11eb-99c8-0992c9a28dde.png) ![image](https://user-images.githubusercontent.com/83057352/116842558-8bc43f00-abfa-11eb-97e4-509c533cfa33.png)![image](https://user-images.githubusercontent.com/83057352/116843780-9a145a00-abfe-11eb-820b-5801f03613e0.png)
 
 
 
