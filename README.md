@@ -1,29 +1,61 @@
 # 2020_CSE_01
 
  ## "Be My Book" - You hear what you choose read.
+ 
+![text](https://img.shields.io/badge/HELLO%20-WORLD-yellowgreen)
 
 Our proposed model will assist visually impaired to read a book without any human assistance. 
-Our model makes use of AUTOMATIC PAGE TURNER AND SCANNER which will turn the pages of the book and scan it respectively.
+Our model makes use of  **AUTOMATIC PAGE TURNER AND SCANNER** which will turn the pages of the book and scan it respectively.
 The scanned book can be stored as  a document  in our Android application.
 Our application also provides the facility to navigate throughout the book with Voice over control navigation system.
+
+![image](https://user-images.githubusercontent.com/83057352/116842529-73ecbb00-abfa-11eb-9bfb-a792902c20a2.png) ![image](https://user-images.githubusercontent.com/83057352/116842544-7f3fe680-abfa-11eb-90e5-afb3e70c211b.png) ![image](https://user-images.githubusercontent.com/83057352/116842556-8830b800-abfa-11eb-99c8-0992c9a28dde.png) ![image](https://user-images.githubusercontent.com/83057352/116842558-8bc43f00-abfa-11eb-97e4-509c533cfa33.png) ![image](https://user-images.githubusercontent.com/83057352/116842569-8ff05c80-abfa-11eb-9130-c791650bda1f.png)
+
+
+
+
+
 
 
 Team Guide 
 
-Dr Ram P Rustagi
+**Dr Ram P Rustagi**
 
 Team Members
 
-Amogha Manjunatha K -1KS17CS006
-Sakshi Kumari - 1KS17CS071
-Srikala K M- 1KS17CS083
-Swati Pai - 1KS17CS089
+* Amogha Manjunatha K -1KS17CS006
+* Sakshi Kumari - 1KS17CS071
+* Srikala K M- 1KS17CS083
+* Swati Pai - 1KS17CS089
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## INTRODUCTION
 
-                                                        EXTRACTING TEXT FROM THE IMAGES
+Our project consists of automatic scanner and Turner which is responsible for turning the pages of the book and simultaneously scans the pages of the book, which is further sent to the application, the user can read the book via audio with interactive voice bot.
+
+## WHY?  ![text](https://img.shields.io/badge/START%20WITH-WHY%3F-brightgreen)
+                                                                 
+The idea of the project came from a daily struggle which visually impaired would face for reading a book. They have to be dependent on others for them to read the book. As they say **Necessity is god of innovation**, thus we came up with this project idea. When a visually impaired person has a physical book and wishes to read it he can just place the book in the scanner and Turner and can interact with the application via voice and hence can listen to the book he chooses.
+
+
+ ## HOW? ![text](https://img.shields.io/badge/HOW-%3F%3F-yellow)
+ ##  Modules of our project: 
+ 
+ # A.  TURNING AND SCANNING MODULE  
+The first step is to place the book on the rectangular stand. The smaller arm rests on the page, pressing the page against the book tightly and the bigger arm whose end is attached and rubber coated material slides the page forming a loop. Later the smaller arm is released forming a bigger loop which helps the slider help to turn the page completely to the other side. Two Cameras which are placed on left and right on the top, are clicked alternately to capture the images of the book.  
+
+ # B. TRANSFERRING IMAGES FROM RASPBERRY PI TO ANDROID APP AND SAVING IT AS PDF
+Once the images are saved in Raspberry Pi , the images are transferred to Android Application. After the pdf is successfully stored the App gives the notification to the user saying “<BOOK_NAME> successfully saved”.
+
+# C. THE IMAGE AND VOICE PROCESSING MODULE
+In this module text is converted to speech . First, the text is extracted from the document using OCR, and the extracted text is converted to voice using TTS.
+
+# D. VOICE OVER FRIENDLY NAVIGATION MODULE
+This module is responsible for interaction between user and application using ASR. This takes the intent from customer utterance. The intent is understood by the system by applying grammars and necessary action is performed.
+
+                                                          
+                                                        ## EXTRACTING TEXT FROM THE IMAGES
 
 OPTICAL CHARACTER RECOGNITION
 
