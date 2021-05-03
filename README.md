@@ -1,6 +1,6 @@
 # 2020_CSE_01
 
-"Be My Book" - You hear what you choose read.
+ ## "Be My Book" - You hear what you choose read.
 
 Our proposed model will assist visually impaired to read a book without any human assistance. 
 Our model makes use of AUTOMATIC PAGE TURNER AND SCANNER which will turn the pages of the book and scan it respectively.
@@ -23,7 +23,7 @@ Swati Pai - 1KS17CS089
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                            EXTRACTING TEXT FROM THE IMAGES
+                                                        EXTRACTING TEXT FROM THE IMAGES
 
 OPTICAL CHARACTER RECOGNITION
 
@@ -53,6 +53,8 @@ And the code for the file is named pdftotext.py
   pip install easyocr
   
         EasyOCR is a python package that allows the image to be converted to text. EasyOCR is built with Python and Pytorch deep learning library, having a GPU could speed up the whole process of detection. t is ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and ThaiEasyOCR is a tool in the Image Analysis API category of a tech stack.
+        
+  Credits : JaidedAI (https://github.com/JaidedAI)
 
 The code for the file is named easyocr.py
 
