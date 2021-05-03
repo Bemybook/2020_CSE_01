@@ -98,20 +98,26 @@ program which will recognize the text and convert the document to an editable te
 
 * pip install pdfminer.six
  
- * file name: pdftotext.py
+ * file name: pdftotext.ipynb
+
+**RESOURCES** :
+
+*PDFMINER DOCUMENTATION
+   [LINK](https://pdfminersix.readthedocs.io/en/latest/)
+
 
 # 2) EASYOCR
 
+        EasyOCR is a python package that allows the image to be converted to text. EasyOCR is built with Python and Pytorch deep learning library, having a GPU could speed up the whole process of detection. t is ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and ThaiEasyOCR is a tool in the Image Analysis API category of a tech stack.
+        
    **INSTALLATION**
    
    > pip install easyocr
-   > 
-  
-        EasyOCR is a python package that allows the image to be converted to text. EasyOCR is built with Python and Pytorch deep learning library, having a GPU could speed up the whole process of detection. t is ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and ThaiEasyOCR is a tool in the Image Analysis API category of a tech stack.
+   
         
-  Credits : JaidedAI (https://github.com/JaidedAI)
+  **Credits : JaidedAI (https://github.com/JaidedAI)
 
-The code for the file is named easyocr.py
+file name: easyocr.py
 
 
 
