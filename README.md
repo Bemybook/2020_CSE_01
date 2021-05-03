@@ -9,7 +9,7 @@ Our model makes use of  **AUTOMATIC PAGE TURNER AND SCANNER** which will turn th
 The scanned book can be stored as  a document  in our Android application.
 Our application also provides the facility to navigate throughout the book with Voice over control navigation system.
 
-![image](https://user-images.githubusercontent.com/83057352/116842529-73ecbb00-abfa-11eb-9bfb-a792902c20a2.png) ![image](https://user-images.githubusercontent.com/83057352/116842544-7f3fe680-abfa-11eb-90e5-afb3e70c211b.png) ![image](https://user-images.githubusercontent.com/83057352/116842556-8830b800-abfa-11eb-99c8-0992c9a28dde.png) ![image](https://user-images.githubusercontent.com/83057352/116842558-8bc43f00-abfa-11eb-97e4-509c533cfa33.png) ![image](https://user-images.githubusercontent.com/83057352/116842569-8ff05c80-abfa-11eb-9130-c791650bda1f.png)
+![image](https://user-images.githubusercontent.com/83057352/116843576-fcb92600-abfd-11eb-9416-ca67b58b8280.png) ![image](https://user-images.githubusercontent.com/83057352/116842544-7f3fe680-abfa-11eb-90e5-afb3e70c211b.png) ![image](https://user-images.githubusercontent.com/83057352/116842556-8830b800-abfa-11eb-99c8-0992c9a28dde.png) ![image](https://user-images.githubusercontent.com/83057352/116842558-8bc43f00-abfa-11eb-97e4-509c533cfa33.png) ![image](https://user-images.githubusercontent.com/83057352/116842569-8ff05c80-abfa-11eb-9130-c791650bda1f.png)
 
 
 
@@ -68,9 +68,10 @@ This module is responsible for interaction between user and application using AS
 ![image](https://user-images.githubusercontent.com/83057352/116842973-122d5080-abfc-11eb-9b07-b8ed3b45507d.png)
 
 
+
 ## WORKING ![text](https://img.shields.io/badge/WORK-TIME-red)
 
-## IMAGE AND VOICE PROCESSING MODULE
+# IMAGE AND VOICE PROCESSING MODULE
 
 # EXTRACTING TEXT FROM THE IMAGES
 
@@ -93,12 +94,11 @@ program which will recognize the text and convert the document to an editable te
 
         We make use of pdfminer.six library to extract information from pdf document. It extracts the text from the page directly from source code of the pdf. Pdfminer.six is a community maintained fork of the original PDFMiner. It is a tool for extracting information from PDF documents. It focuses on getting and analyzing text data. Pdfminer.six extracts the text from a page directly from the sourcecode of the PDF. It can also be used to get the exact location, font or color of the text.
  
-* INSTALLATION:
+**INSTALLATION** :
 
-# 
-pip install pdfminer.six
+inline code pip install pdfminer.six
  
-And the code for the file is named pdftotext.py
+ inline code fie name: pdftotext.py
 
 2) EASYOCR
 
