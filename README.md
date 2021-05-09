@@ -145,6 +145,18 @@ program which will recognize the text and convert the document to an editable te
 Documentation file name: easyocr(2).py
 Code file : easyocr.ipynb
 
+_________________________________________________________________________________________________________________________________________________________________________________
+Google Vision API
+The Vision API can detect and extract text from images. TEXT_DETECTION detects and extracts text from any image. 
+For example, a photograph might contain a street sign or traffic sign. The JSON includes the entire extracted string, as well as individual words, and their bounding boxes.
+![image](https://user-images.githubusercontent.com/83057352/117578139-812e0c00-b10a-11eb-8652-9da03199d91f.png)
+
+We have called the vision api and uploaded the code and working part with the errors we have encountered in **extracttext.ipynb** above.
+
+
+
+
+
 
 
 
