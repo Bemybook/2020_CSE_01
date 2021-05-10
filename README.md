@@ -171,7 +171,8 @@ DOCUMENT_TEXT_DETECTION also extracts text from an image, but the response is op
 So, to begin with we considered the below image taken from our mobile phone as a input tried to feed it to the ocr  to see the extraction results
 ![image](https://user-images.githubusercontent.com/83057352/117642261-b424de00-b1a4-11eb-9acf-64311921829d.png)
 
-This is the obtained result of the text extraction process
+**This is the obtained result of the text extraction process**
+
 when am i going to use this? 7 so clear set some variables deserve in this case the variable to tweak is the probability that are playing that takes a head to the engine manages to stay in the air setting that probability to zero means a single shot through the engine is guarantee to bring the plane down what would the one look like
 
 Then you'd have planes coming back with bullet holes all over the wings the fuselage the nose -but  don't at all on the engine the military energy wise has two options for explaining this either the german bullets just happened to hit every part of the plane but one or the engine is a point of total vulnerability both stories explain the data but the letter makes a job more sense the arm or goes where the bullet holes aren't walls recommendations were quickly put into effect and we're still being used by the navy and the air force through the wars in korea and vietnam i can tell you exactly how many american planes they saved
