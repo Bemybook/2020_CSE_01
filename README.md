@@ -146,12 +146,87 @@ Documentation file name: easyocr(2).py
 Code file : easyocr.ipynb
 
 _________________________________________________________________________________________________________________________________________________________________________________
-Google Vision API
+**Google Vision API**
 The Vision API can detect and extract text from images. TEXT_DETECTION detects and extracts text from any image. 
 For example, a photograph might contain a street sign or traffic sign. The JSON includes the entire extracted string, as well as individual words, and their bounding boxes.
 ![image](https://user-images.githubusercontent.com/83057352/117578139-812e0c00-b10a-11eb-8652-9da03199d91f.png)
 
 We have called the vision api and uploaded the code and working part with the errors we have encountered in **extracttext.ipynb** above.
+
+**REQUIREMENTS**
+
+In order to use this library, you first need to go through the following steps:
+
+
+Select or create a Cloud Platform project.
+Enable billing for your project.
+Enable the Google Cloud Vision API.
+Setup Authentication.
+**INSTALLATION**
+
+Install this library in a virtualenv using pip. virtualenv is a tool to create isolated Python environments. The basic problem it addresses is one of dependencies and versions, and indirectly permissions. With virtualenv, it's possible to install this library without needing system install permissions, and without clashing with the installed system dependencies.
+DOCUMENT_TEXT_DETECTION also extracts text from an image, but the response is optimized for dense text and documents. The JSON includes page, block, paragraph, word, and break information.
+![image](https://user-images.githubusercontent.com/83057352/117642199-a66f5880-b1a4-11eb-8697-062de4f8265f.png)
+
+So, to begin with we considered the below image taken from our mobile phone as a input tried to feed it to the ocr  to see the extraction results
+![image](https://user-images.githubusercontent.com/83057352/117642261-b424de00-b1a4-11eb-9acf-64311921829d.png)
+
+This is the obtained result of the text extraction process
+when am i going to use this? 7 so clear set some variables deserve in this case the variable to tweak is the probability that are playing that takes a head to the engine manages to stay in the air setting that probability to zero means a single shot through the engine is guarantee to bring the plane down what would the one look like
+
+Then you'd have planes coming back with bullet holes all over the wings the fuselage the nose -but  don't at all on the engine the military energy wise has two options for explaining this either the german bullets just happened to hit every part of the plane but one or the engine is a point of total vulnerability both stories explain the data but the letter makes a job more sense the arm or goes where the bullet holes aren't walls recommendations were quickly put into effect and we're still being used by the navy and the air force through the wars in korea and vietnam i can tell you exactly how many american planes they saved
+
+the data slinging descendants of the s rg inside today's military no doubt have a pretty good idea
+
+one thing the american defense establishment has traditionally understood very well is that countries don't when wars just by being braver than the other side or for her or slightly preferred by god the winners are usually the guys who get five percent fewer of their planes shut down or used five percent less fuel
+
+or get five percent more nutrition into their infantry at ninety five percent of the cost that's not this stuff war movies are made of but it's the stuff wars are made of and there's math every step of the way 
+
+
+Total Number of words : 304
+
+Correct Words :294 
+
+Percentage : 97.64%
+
+
+**SPEECH SYNTHESIS**
+
+-After the text extraction is done, we used Google text to Speech API.
+-The process of translating text input into audio data is called synthesis and the output of synthesis is called synthetic speech. 
+-The speech synthesis process generates raw audio data as a base64-encoded string.
+-It make use of WAVENET VOICE  , the key difference to a WaveNet voice is the WaveNet model used to generate the voice. WaveNet models have been trained using raw audio samples of actual humans speaking. As a result, these models generate synthetic speech with more human-like emphasis and inflection on syllables, phonemes, and words.
+
+**DESCRIPTION OF THE IMAGE**
+
+When an image is given as input, we extract properties out of the image using Google Vision API.
+The Vision API can perform feature detection on a local image file by sending the contents of the image file as a base64 encoded string in the body of your request.
+Example 1:
+![image](https://user-images.githubusercontent.com/83057352/117642685-33b2ad00-b1a5-11eb-9bef-2747557fac57.png) ![image](https://user-images.githubusercontent.com/83057352/117642701-390ff780-b1a5-11eb-8cc8-546735fe90de.png)
+
+MODULE -1 
+
+**AUTOMATIC PAGE TURNER AND SCANNER**
+![image](https://user-images.githubusercontent.com/83057352/117642754-4c22c780-b1a5-11eb-864e-8a806c5cae46.png)
+
+**TURNER DESIGN WITH DIMENSIONS**
+![image](https://user-images.githubusercontent.com/83057352/117642892-76748500-b1a5-11eb-8dcb-60c93f37b74a.png)
+
+**TURNER LAYOUT WITH NAMING**
+![image](https://user-images.githubusercontent.com/83057352/117642964-8724fb00-b1a5-11eb-832e-9ac46f0e772e.png)
+
+LIST OF COMPONENTS
+
+• Servo motors- 8 nos.
+• Arduino Uno- 1 nos.
+• Power supply for servo motors.
+• Acrylic sheets.
+
+
+
+
+ 
+
 
 
 
