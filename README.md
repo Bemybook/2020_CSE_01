@@ -218,7 +218,7 @@ MODULE -1
 
 LIST OF COMPONENTS
 
-• Servo motors- 8 nos.
+• Servo motors- 6 nos.
 • Arduino Uno- 1 nos.
 • Power supply for servo motors.
 • Acrylic sheets.
